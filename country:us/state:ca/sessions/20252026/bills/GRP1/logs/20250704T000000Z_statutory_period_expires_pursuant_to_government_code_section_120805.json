@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Statutory period expires pursuant to Government Code Section 12080.5",
+    "date": "2025-07-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "GRP1"
+}

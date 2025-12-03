@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Re-referred to Coms. on PUB. S. and L., P.E. & R.",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on PUB. S. and L., P.E. & R.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB850"
+}

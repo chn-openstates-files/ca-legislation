@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action rescinded whereby bill was read a third time, urgency clause adopted, passed, and ordered to the Senate.",
+    "date": "2025-08-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB39"
+}

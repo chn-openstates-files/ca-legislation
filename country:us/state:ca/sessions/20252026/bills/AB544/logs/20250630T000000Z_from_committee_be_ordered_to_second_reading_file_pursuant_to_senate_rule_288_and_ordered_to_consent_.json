@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+    "date": "2025-06-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB544"
+}

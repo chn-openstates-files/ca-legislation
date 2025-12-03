@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended and re-refer to Com. on HUM. S. (Ayes 7. Noes 1.) (March 18).",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage",
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB363"
+}

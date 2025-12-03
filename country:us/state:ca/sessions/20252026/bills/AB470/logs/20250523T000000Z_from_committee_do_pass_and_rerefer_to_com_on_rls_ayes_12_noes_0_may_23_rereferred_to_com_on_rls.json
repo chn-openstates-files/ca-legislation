@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on RLS. (Ayes 12. Noes 0.) (May 23). Re-referred to Com. on RLS.",
+    "date": "2025-05-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on RLS.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB470"
+}

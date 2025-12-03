@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Amend, and be adopted as amended. (Ayes 7. Noes 0.) (May 12).",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage",
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR34"
+}

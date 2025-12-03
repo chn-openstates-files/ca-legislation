@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 6. Noes 0. Page 708.) (April 8).",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB38"
+}

@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read. Adopted. (Ayes 67. Noes 0. Page 1122.).",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "passage",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR29"
+}

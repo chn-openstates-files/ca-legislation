@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 75. Noes 0. Page 2589.).",
+    "date": "2025-07-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1114"
+}

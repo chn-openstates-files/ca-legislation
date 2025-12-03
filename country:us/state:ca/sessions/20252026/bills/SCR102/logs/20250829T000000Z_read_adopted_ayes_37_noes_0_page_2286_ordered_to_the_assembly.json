@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read. Adopted. (Ayes 37. Noes 0. Page 2286.) Ordered to the Assembly.",
+    "date": "2025-08-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "passage",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR102"
+}

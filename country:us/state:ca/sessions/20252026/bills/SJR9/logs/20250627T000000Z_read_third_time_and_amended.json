@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read third time and amended.",
+    "date": "2025-06-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "reading-1",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR9"
+}

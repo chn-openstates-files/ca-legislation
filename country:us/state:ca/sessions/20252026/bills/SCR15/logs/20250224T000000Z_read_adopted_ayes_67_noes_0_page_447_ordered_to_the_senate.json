@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read. Adopted. (Ayes 67. Noes 0. Page 447.) Ordered to the Senate.",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "passage",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR15"
+}

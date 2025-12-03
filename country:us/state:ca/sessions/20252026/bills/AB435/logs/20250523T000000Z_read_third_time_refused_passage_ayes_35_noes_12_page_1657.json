@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read third time. Refused passage. (Ayes 35. Noes 12. Page 1657.).",
+    "date": "2025-05-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure",
+      "reading-1",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB435"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Assembly amendments concurred in. (Ayes 28. Noes 9. Page 2124.) Ordered to engrossing and enrolling.",
+    "date": "2025-07-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB119"
+}

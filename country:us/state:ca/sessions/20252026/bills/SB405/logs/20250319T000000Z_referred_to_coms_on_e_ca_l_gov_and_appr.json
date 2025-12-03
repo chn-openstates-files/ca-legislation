@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on E. & C.A., L. GOV., and APPR.",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on E. & C.A., L. GOV., and APPR.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB405"
+}

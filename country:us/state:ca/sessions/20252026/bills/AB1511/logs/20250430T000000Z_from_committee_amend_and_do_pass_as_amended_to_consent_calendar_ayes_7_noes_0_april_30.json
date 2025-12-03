@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended. To Consent Calendar. (Ayes 7. Noes 0.) (April 30).",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage",
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1511"
+}

@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read third time. Passed. (Ayes 54. Noes 14. Page 3391.) Ordered to the Senate.",
+    "date": "2025-09-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-1",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB613"
+}

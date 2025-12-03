@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "From consent calendar on motion of Assembly Member Aguiar-Curry.",
+    "date": "2025-08-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB852"
+}

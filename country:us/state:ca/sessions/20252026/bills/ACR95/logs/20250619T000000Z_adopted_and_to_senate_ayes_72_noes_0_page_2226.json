@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Adopted and to Senate. (Ayes 72. Noes 0. Page 2226.)",
+    "date": "2025-06-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR95"
+}

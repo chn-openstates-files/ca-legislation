@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Enrolled and presented to the Governor at 2 p.m.",
+    "date": "2025-09-23",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB487"
+}

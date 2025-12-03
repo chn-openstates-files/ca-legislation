@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Measure version as amended on May 1 corrected.",
+    "date": "2025-05-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1355"
+}

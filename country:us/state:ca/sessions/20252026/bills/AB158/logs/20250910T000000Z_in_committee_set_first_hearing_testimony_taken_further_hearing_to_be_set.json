@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "In committee: Set, first hearing. Testimony taken. Further hearing to be set.",
+    "date": "2025-09-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB158"
+}

@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (June 24).",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage",
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB493"
+}

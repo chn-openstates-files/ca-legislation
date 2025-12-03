@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Re-referred to Coms. on L., P.E. & R. and JUD.",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on L., P.E. & R. and JUD.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB238"
+}

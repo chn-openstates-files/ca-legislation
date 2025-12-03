@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Withdrawn from committee.",
+    "date": "2025-09-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB162"
+}

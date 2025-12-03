@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on NAT. RES. (Ayes 13. Noes 0.) (April 8). Re-referred to Com. on NAT. RES.",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on NAT. RES.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB846"
+}

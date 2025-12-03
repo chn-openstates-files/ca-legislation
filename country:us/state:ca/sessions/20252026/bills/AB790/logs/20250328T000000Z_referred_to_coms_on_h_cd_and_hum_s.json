@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on H. & C.D. and HUM. S.",
+    "date": "2025-03-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on H. & C.D. and HUM. S.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB790"
+}

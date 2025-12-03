@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Set for hearing April 23 in L. GOV. pending receipt.",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB282"
+}

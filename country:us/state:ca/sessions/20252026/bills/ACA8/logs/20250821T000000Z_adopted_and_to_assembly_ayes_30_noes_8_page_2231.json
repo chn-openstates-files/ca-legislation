@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Adopted and to Assembly. (Ayes 30. Noes 8. Page 2231.)",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACA8"
+}

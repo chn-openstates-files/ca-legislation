@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on HUM. S. (Ayes 5. Noes 1.) (June 24). Re-referred to Com. on HUM. S.",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on HUM. S.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB433"
+}

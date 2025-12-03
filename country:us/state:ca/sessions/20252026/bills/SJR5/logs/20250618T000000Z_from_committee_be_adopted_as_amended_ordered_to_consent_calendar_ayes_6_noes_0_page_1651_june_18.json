@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Be adopted as amended. Ordered to consent calendar. (Ayes 6. Noes 0. Page 1651.) (June 18).",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR5"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB238"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Plan takes effect.",
+    "date": "2025-07-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "GRP1"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Coauthors revised.",
+    "date": "2025-07-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB769"
+}

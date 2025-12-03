@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on P. & C.P. with recommendation: To consent calendar. (Ayes 15. Noes 0.) (June 17). Re-referred to Com. on P. & C.P.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on P. & C.P.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB278"
+}

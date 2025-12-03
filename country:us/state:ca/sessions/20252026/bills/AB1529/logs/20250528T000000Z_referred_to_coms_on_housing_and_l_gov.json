@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on HOUSING and L. GOV.",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on HOUSING and L. GOV.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB1529"
+}

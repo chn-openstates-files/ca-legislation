@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Be adopted. Ordered to Third Reading. (Ayes 7. Noes 0.) (March 28).",
+    "date": "2025-03-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR6"
+}

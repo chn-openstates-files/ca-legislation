@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read. Adopted. (Page 2536.) Ordered to the Senate.",
+    "date": "2025-07-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "passage",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR66"
+}

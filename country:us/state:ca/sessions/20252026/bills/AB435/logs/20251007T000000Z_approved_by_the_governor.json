@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by the Governor.",
+    "date": "2025-10-07",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB435"
+}

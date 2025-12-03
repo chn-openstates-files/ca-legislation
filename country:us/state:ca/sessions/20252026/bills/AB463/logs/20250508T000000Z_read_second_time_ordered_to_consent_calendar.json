@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read second time. Ordered to Consent Calendar.",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB463"
+}

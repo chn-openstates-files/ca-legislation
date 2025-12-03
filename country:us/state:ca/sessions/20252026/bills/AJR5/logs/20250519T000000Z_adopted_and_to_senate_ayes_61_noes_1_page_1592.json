@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Adopted and to Senate. (Ayes 61. Noes 1. Page 1592.)",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR5"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Re-referred to Com. on AGING & L.T.C.",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on AGING & L.T.C.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB617"
+}

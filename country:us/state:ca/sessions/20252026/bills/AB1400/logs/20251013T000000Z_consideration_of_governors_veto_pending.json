@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Consideration of Governor's veto pending.",
+    "date": "2025-10-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB1400"
+}

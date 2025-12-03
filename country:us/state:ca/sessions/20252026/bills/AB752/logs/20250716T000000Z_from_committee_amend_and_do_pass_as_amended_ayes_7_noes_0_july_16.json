@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (July 16).",
+    "date": "2025-07-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage",
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB752"
+}

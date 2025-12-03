@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "From printer. May be acted upon on or after March 8.",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB279"
+}

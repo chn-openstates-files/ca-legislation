@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Rule 29.4 suspended. (Ayes 30. Noes 10. Page 2935.)",
+    "date": "2025-09-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB161"
+}

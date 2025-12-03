@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Received by the Assembly. (Sixty day mandatory period ends July 4, 2025, pursuant to Government Code Section 12080.5).",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "GRP1"
+}

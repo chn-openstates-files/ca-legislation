@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Do pass as amended and re-refer to Com. on L. GOV. with recommendation: To consent calendar. (Ayes 11. Noes 0.) (June 18).",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB233"
+}

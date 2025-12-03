@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Ordered to the Senate.",
+    "date": "2025-07-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB898"
+}

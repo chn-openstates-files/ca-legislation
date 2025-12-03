@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on N.R. & W. and E.Q.",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on N.R. & W. and E.Q.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB687"
+}

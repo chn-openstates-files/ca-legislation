@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on INS. (Ayes 7. Noes 0.) (April 28). Re-referred to Com. on INS.",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on INS.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB1531"
+}

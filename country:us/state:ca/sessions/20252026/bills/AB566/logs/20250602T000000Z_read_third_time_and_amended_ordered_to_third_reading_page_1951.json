@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read third time and amended. Ordered to third reading. (Page 1951.)",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "reading-1",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB566"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From committee: That the Senate amendments be concurred in. (Ayes 17. Noes 0.) (September 12).",
+    "date": "2025-09-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1246"
+}

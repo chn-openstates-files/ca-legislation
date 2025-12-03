@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on ED. and M. & V.A.",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on ED. and M. & V.A.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB67"
+}

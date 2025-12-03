@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "July 16 set for second hearing. Failed passage in committee. (Ayes 4. Noes 1.) Reconsideration granted.",
+    "date": "2025-07-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB549"
+}

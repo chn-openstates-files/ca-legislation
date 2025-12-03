@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 3. Page 2507.).",
+    "date": "2025-09-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-1",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1374"
+}

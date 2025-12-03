@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Do pass as amended and re-refer to Com. on JUD. (Ayes 13. Noes 0. Page 531.) (March 25).",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB702"
+}

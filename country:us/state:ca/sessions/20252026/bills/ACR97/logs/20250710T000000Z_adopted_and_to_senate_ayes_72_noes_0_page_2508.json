@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Adopted and to Senate. (Ayes 72. Noes 0. Page 2508.)",
+    "date": "2025-07-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR97"
+}

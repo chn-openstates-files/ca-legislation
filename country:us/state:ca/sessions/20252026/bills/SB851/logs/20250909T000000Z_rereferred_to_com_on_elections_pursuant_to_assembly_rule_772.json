@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Re-referred to Com. on ELECTIONS pursuant to Assembly Rule 77.2.",
+    "date": "2025-09-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on ELECTIONS pursuant to Assembly Rule 77.2.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB851"
+}

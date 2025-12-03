@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From committee: That the Assembly amendments be concurred in. (Ayes 5. Noes 0. Page 2940.)",
+    "date": "2025-09-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB663"
+}

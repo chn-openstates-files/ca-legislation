@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on HIGHER ED. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (April 2). Re-referred to Com. on HIGHER ED.",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on HIGHER ED.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB694"
+}

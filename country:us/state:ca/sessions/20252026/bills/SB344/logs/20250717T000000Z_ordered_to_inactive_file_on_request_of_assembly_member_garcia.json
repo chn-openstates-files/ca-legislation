@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Ordered to inactive file on request of Assembly Member Garcia.",
+    "date": "2025-07-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB344"
+}

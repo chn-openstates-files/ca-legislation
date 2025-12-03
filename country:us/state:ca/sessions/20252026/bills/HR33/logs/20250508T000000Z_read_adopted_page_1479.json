@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read. Adopted. (Page 1479.).",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "passage",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR33"
+}

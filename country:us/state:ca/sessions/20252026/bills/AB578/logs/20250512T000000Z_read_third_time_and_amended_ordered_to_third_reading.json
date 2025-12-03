@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read third time and amended. Ordered to third reading.",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "reading-1",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB578"
+}

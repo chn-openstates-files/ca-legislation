@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Measure version as amended on March 4 corrected.",
+    "date": "2025-03-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR18"
+}

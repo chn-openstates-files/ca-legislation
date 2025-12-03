@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 56. Noes 20. Page 2698.).",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB604"
+}

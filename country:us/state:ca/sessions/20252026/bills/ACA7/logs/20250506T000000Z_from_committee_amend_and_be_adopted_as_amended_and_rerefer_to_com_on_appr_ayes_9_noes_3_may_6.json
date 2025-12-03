@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Amend, and be adopted as amended, and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (May 6).",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage",
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACA7"
+}

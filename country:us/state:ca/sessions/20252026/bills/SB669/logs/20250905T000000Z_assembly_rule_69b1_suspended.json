@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Assembly Rule 69(b)(1) suspended.",
+    "date": "2025-09-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB669"
+}

@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "From committee: Be re-referred to Com. on PUB. S. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0. Page 2242.) Re-referred to Com. on PUB. S.",
+    "date": "2025-08-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on PUB. S. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0. Page 2242.) Re-referred to Com. on PUB. S.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB733"
+}

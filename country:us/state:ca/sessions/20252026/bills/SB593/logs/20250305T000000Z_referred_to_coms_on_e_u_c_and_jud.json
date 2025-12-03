@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on E., U & C. and JUD.",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on E., U & C. and JUD.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB593"
+}

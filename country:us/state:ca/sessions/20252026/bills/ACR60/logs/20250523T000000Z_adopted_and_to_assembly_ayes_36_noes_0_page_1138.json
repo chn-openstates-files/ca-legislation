@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Adopted and to Assembly. (Ayes 36. Noes 0. Page 1138.)",
+    "date": "2025-05-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR60"
+}

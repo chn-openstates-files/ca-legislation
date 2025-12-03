@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on TRANS. and L. GOV.",
+    "date": "2025-03-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on TRANS. and L. GOV.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB902"
+}

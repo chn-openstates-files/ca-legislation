@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Received by the Senate. Sixty-day statutory period ends July 4, 2025. (Government Code Section 12080.5.)",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "GRP1"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(Pending re-refer to Com. on JUD.)",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB238"
+}

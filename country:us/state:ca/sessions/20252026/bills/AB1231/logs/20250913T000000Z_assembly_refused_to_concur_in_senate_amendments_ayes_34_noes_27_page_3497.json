@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assembly refused to concur in Senate amendments. (Ayes 34. Noes 27. Page 3497.)",
+    "date": "2025-09-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1231"
+}

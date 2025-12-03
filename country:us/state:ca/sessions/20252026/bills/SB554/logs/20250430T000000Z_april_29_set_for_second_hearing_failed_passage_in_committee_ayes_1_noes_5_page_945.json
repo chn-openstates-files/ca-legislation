@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "April 29 set for second hearing. Failed passage in committee. (Ayes 1. Noes 5. Page 945.)",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB554"
+}

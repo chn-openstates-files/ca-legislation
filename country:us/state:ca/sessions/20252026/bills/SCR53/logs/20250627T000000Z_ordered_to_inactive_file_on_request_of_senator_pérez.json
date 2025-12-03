@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Ordered to inactive file on request of Senator P\u00e9rez.",
+    "date": "2025-06-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR53"
+}

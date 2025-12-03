@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced. Read first time. Referred to Com. on RLS.",
+    "date": "2025-01-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on RLS.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB2"
+}

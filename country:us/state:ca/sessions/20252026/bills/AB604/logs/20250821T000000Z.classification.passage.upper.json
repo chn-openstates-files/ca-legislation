@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 30. Noes 9. Page 2229.).",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-1",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB604"
+}

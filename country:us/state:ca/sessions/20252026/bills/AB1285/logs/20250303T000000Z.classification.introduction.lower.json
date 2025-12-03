@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced measure version corrected.",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1285"
+}

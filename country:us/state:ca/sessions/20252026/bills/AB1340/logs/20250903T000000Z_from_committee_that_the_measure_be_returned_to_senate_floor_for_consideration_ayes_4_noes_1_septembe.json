@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From committee: That the measure be returned to Senate Floor for consideration. (Ayes 4. Noes 1.) (September 3)",
+    "date": "2025-09-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1340"
+}

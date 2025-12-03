@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "From committee: Be adopted, and re-refer to Com. on HUM. S. Re-referred. (Ayes 8. Noes 2.) (April 30). Re-referred to Com. on HUM. S.",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on HUM. S.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "ACA4"
+}

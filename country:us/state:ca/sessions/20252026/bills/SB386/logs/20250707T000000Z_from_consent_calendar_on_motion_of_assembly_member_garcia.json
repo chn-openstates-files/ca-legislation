@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "From consent calendar on motion of Assembly Member Garcia.",
+    "date": "2025-07-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB386"
+}

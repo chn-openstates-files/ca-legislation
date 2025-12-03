@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Com. on L. & E.",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on L. & E.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB596"
+}

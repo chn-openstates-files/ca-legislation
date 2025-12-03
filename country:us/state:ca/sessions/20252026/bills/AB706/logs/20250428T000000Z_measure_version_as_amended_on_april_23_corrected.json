@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Measure version as amended on April 23 corrected.",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB706"
+}

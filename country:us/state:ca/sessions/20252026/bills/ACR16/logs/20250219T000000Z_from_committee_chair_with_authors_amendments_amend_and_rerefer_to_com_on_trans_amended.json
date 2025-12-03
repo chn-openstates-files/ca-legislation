@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on TRANS. Amended.",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR16"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on A.,E.,S., & T. and REV. & TAX.",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on A.,E.,S., & T. and REV. & TAX.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB630"
+}

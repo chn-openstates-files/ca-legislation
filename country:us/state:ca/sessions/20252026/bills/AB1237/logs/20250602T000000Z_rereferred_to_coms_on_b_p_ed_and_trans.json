@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Re-referred to Coms. on B. P. & E.D. and TRANS.",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on B. P. & E.D. and TRANS.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "AB1237"
+}

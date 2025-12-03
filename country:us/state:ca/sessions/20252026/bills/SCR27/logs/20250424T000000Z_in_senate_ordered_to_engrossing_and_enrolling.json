@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "In Senate. Ordered to engrossing and enrolling.",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR27"
+}

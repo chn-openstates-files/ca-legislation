@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Be adopted as amended. (Ayes 5. Noes 1. Page 1739.) (June 24).",
+    "date": "2025-06-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR9"
+}

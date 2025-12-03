@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Action rescinded whereby the bill was read third time, passed, and to Assembly.",
+    "date": "2025-09-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB898"
+}

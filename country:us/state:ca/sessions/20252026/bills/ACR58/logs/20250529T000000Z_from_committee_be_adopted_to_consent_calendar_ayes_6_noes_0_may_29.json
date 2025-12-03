@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From committee: Be adopted. To Consent Calendar. (Ayes 6. Noes 0.) (May 29).",
+    "date": "2025-05-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR58"
+}

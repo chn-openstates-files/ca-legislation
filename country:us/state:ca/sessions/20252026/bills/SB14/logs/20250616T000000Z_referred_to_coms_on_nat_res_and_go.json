@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on NAT. RES. and G.O.",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on NAT. RES. and G.O.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB14"
+}

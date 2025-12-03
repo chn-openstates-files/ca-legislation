@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Coms. on P. & C.P., JUD., and APPR.",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on P. & C.P., JUD., and APPR.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB446"
+}

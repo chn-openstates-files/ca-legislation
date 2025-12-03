@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Amend, and be adopted as amended. (Ayes 6. Noes 0.) (May 29).",
+    "date": "2025-05-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage",
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR91"
+}
