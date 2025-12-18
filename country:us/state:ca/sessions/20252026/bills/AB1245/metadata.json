@@ -89,6 +89,16 @@
       "_processing": {
         "log_file_created": "2025-12-03T15:18:15Z"
       }
+    },
+    {
+      "description": "Pending re-refer to Com. on G.O. pursuant to Assembly Rule 56.",
+      "date": "2025-12-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-18T08:44:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -155,6 +165,6 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T15:18:15Z"
+    "logs_latest_update": "2025-12-18T08:44:14Z"
   }
 }
